@@ -4,8 +4,8 @@ WEEK-1
 
 WEEK-2
  - Read book chapter 2,3
- - Python (dsa)
+ - Basic Python 
  
  WEEK-3
  - ML Cybersecurity internship of college (Mon-Fri)
- -	Revised python Recursion 
+ -	 python (dsa) 
